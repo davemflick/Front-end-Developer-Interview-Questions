@@ -49,17 +49,33 @@ This file contains a number of front-end interview questions that can be used wh
 #### HTML Questions:
 
 * What does a `doctype` do?
+*The doctype declaration should be the very first thing in an HTML document, before the tag. The doctype declaration is not an HTML tag; it is an instruction to the web browser about what version of the markup language the page is written in. The doctype declaration refers to a Document Type Definition (DTD).
+
 * What's the difference between full standards mode, almost standards mode and quirks mode?
+[http://reference.sitepoint.com/css/doctypesniffing]
+
 * What's the difference between HTML and XHTML?
+[https://www.sitepoint.com/web-foundations/differences-html-xhtml/]
 * Are there any problems with serving pages as `application/xhtml+xml`?
+[https://www.sitepoint.com/web-foundations/differences-html-xhtml/]
 * How do you serve a page with content in multiple languages?
+[http://www.pro-tekconsulting.com/blog/how-do-you-serve-a-page-with-content-in-multiple-languages/]
 * What kind of things must you be wary of when design or developing for multilingual sites?
+  *See link in previous question.
 * What are `data-` attributes good for?
+[https://www.w3schools.com/tags/att_global_data.asp]
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
+[https://www.quora.com/Design-Consider-HTML5-as-an-open-web-platform-What-are-the-building-blocks-of-HTML5]
 * Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
+[http://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies]
 * Describe the difference between `<script>`, `<script async>` and `<script defer>`.
+[https://www.w3schools.com/tags/tag_script.asp]
 * Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
+[http://uxmovement.com/content/why-you-should-place-style-sheets-before-scripts/]
+[http://stackoverflow.com/questions/6625773/where-should-i-put-the-css-and-javascript-code-in-an-html-webpage]
+
 * What is progressive rendering?
+[http://stackoverflow.com/questions/33651166/what-is-progressive-rendering]
 * Have you used different HTML templating languages before?
 
 #### CSS Questions:
